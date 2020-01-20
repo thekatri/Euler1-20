@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Euler1-20/1.0.0": {
+        "dependencies": {
+          "EulerLibrary": "1.0.0"
+        },
+        "runtime": {
+          "Euler1-20.dll": {}
+        }
+      },
+      "EulerLibrary/1.0.0": {
+        "runtime": {
+          "EulerLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Euler1-20/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EulerLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

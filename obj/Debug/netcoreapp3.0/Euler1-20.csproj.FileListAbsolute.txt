@@ -1,0 +1,14 @@
+C:\Users\katri\Documents\Project Euler\Euler1-20\bin\Debug\netcoreapp3.0\Euler1-20.exe
+C:\Users\katri\Documents\Project Euler\Euler1-20\bin\Debug\netcoreapp3.0\Euler1-20.deps.json
+C:\Users\katri\Documents\Project Euler\Euler1-20\bin\Debug\netcoreapp3.0\Euler1-20.runtimeconfig.json
+C:\Users\katri\Documents\Project Euler\Euler1-20\bin\Debug\netcoreapp3.0\Euler1-20.runtimeconfig.dev.json
+C:\Users\katri\Documents\Project Euler\Euler1-20\bin\Debug\netcoreapp3.0\Euler1-20.dll
+C:\Users\katri\Documents\Project Euler\Euler1-20\bin\Debug\netcoreapp3.0\Euler1-20.pdb
+C:\Users\katri\Documents\Project Euler\Euler1-20\bin\Debug\netcoreapp3.0\EulerLibrary.dll
+C:\Users\katri\Documents\Project Euler\Euler1-20\bin\Debug\netcoreapp3.0\EulerLibrary.pdb
+C:\Users\katri\Documents\Project Euler\Euler1-20\obj\Debug\netcoreapp3.0\Euler1-20.csprojAssemblyReference.cache
+C:\Users\katri\Documents\Project Euler\Euler1-20\obj\Debug\netcoreapp3.0\Euler1-20.AssemblyInfoInputs.cache
+C:\Users\katri\Documents\Project Euler\Euler1-20\obj\Debug\netcoreapp3.0\Euler1-20.AssemblyInfo.cs
+C:\Users\katri\Documents\Project Euler\Euler1-20\obj\Debug\netcoreapp3.0\Euler1-20.csproj.CopyComplete
+C:\Users\katri\Documents\Project Euler\Euler1-20\obj\Debug\netcoreapp3.0\Euler1-20.dll
+C:\Users\katri\Documents\Project Euler\Euler1-20\obj\Debug\netcoreapp3.0\Euler1-20.pdb
